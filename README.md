@@ -7,18 +7,20 @@ This repository includes publicly available information about [RWSC's](https://r
 
 <details>
 
-<summary>EXPAND FOR MORE CONTEXT. The purpose of these policies and terms is to ensure that data collected by a variety of funders and implemented by a variety of researchers, consultants, and other practitioners, are FAIR, can advance knowledge, be used in decision-making, and have wide utility to researchers, government agencies, and others.</summary>
+<summary>EXPAND FOR MORE CONTEXT. The purpose of sharing these policies and terms is to ensure that data collected by a variety of funders and implemented by a variety of researchers, consultants, and other practitioners, are FAIR, can advance knowledge, be used in decision-making, and have wide utility to researchers, government agencies, and others.</summary>
 
 ### Additional context
-The Regional Wildlife Science Collaborative for Offshore Wind (“RWSC”) is a collaborative entity among four sectors – federal agencies, state agencies, environmental non-governmental organizations, and offshore wind companies. The mission of the RWSC is to collaboratively and effectively conduct and coordinate relevant, credible, and efficient regional monitoring and research of wildlife and marine ecosystems that supports the advancement of environmentally responsible and cost-efficient offshore wind power development activities in U.S. Atlantic waters. In 2024, RWSC released its [Integrated Science Plan for Offshore Wind, Wildlife, and Habitat in U.S. Atlantic Waters](https://rwsc.org/science-plan) to inform future data collection and research (“Science Plan”). The Science Plan expresses all RWSC participants’ common goals of funding and implementing research that is collaborative, aligned with current data needs, and that results in data that are Findable, Accessible, Interoperable, Reusable (FAIR), and made available to support decision-making and future research as soon as possible. In response to requests from the four sectors, and in order to support RWSC’s mission, the Science Plan, all RWSC participants, and relevant research throughout the region, the RWSC is collaboratively developing and making available policies and recommended terms and conditions that can be incorporated into offshore wind research agreements.
+The Regional Wildlife Science Collaborative for Offshore Wind (“RWSC”) is a collaborative entity among four sectors – federal agencies, state agencies, environmental non-governmental organizations, and offshore wind companies. The mission of the RWSC is to collaboratively and effectively conduct and coordinate relevant, credible, and efficient regional monitoring and research of wildlife and marine ecosystems that supports the advancement of environmentally responsible and cost-efficient offshore wind power development activities in U.S. Atlantic waters. In 2024, RWSC released its [Integrated Science Plan for Offshore Wind, Wildlife, and Habitat in U.S. Atlantic Waters](https://rwsc.org/science-plan) to inform future data collection and research (“Science Plan”). The Science Plan expresses all RWSC participants’ common goals of funding and implementing research that is collaborative, aligned with current data needs, and that results in data that are Findable, Accessible, Interoperable, Reusable (FAIR), and made available to support decision-making and future research as soon as possible. 
 
-These policies and recommended terms and conditions in this repository apply specififically to research and data collection activities that RWSC funds, but are made available so that anyone can repurpose and reuse its contents, in whole or in part.
+In response to requests from the four sectors, and in order to support RWSC’s mission, the Science Plan, all RWSC participants, and relevant research throughout the region, the RWSC is collaboratively developing and making available policies and recommended terms and conditions that can be incorporated into offshore wind research agreements.
 
 </details>
 
 ## Recommended contract language
-Below are whole policies and example terms, conditions, and clauses that can be incorporated into research or data collection agreements.
+Below are whole policies and example terms, conditions, and clauses that can be incorporated into research or data collection agreements. The policies and recommended terms and conditions below apply specififically to research and data collection activities that RWSC funds, but are made available so that anyone can repurpose and reuse them, in whole or in part.
+
 - [**Requiring collaboration with RWSC**](https://rwsc.org/wp-content/uploads/2024/08/RWSC-Steering-Committee-coordination-request-2024.pdf)
+
 - [**Intellectual property, data sharing, and publications policy for offshore wind and wildlife research and projects specifically funded by RWSC**](https://github.com/RWSCollab/contract-language/blob/main/Data_Policy.md)
 
 
