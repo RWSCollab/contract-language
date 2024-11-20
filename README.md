@@ -18,8 +18,8 @@ These policies and recommended terms and conditions in this repository apply spe
 
 ## Recommended contract language
 Below are whole policies and example terms, conditions, and clauses that can be incorporated into research or data collection agreements.
-- [Requiring collaboration with RWSC](https://rwsc.org/wp-content/uploads/2024/08/RWSC-Steering-Committee-coordination-request-2024.pdf)
-- Intellectual property, data sharing, and publications policy for offshore wind and wildlife research and projects specifically funded by RWSC
+- [**Requiring collaboration with RWSC**](https://rwsc.org/wp-content/uploads/2024/08/RWSC-Steering-Committee-coordination-request-2024.pdf)
+- [**Intellectual property, data sharing, and publications policy for offshore wind and wildlife research and projects specifically funded by RWSC**](https://github.com/RWSCollab/contract-language/blob/main/Data_Policy.md)
 
 
 ## Disclaimer
