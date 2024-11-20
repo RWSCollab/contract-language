@@ -4,6 +4,8 @@ version 1.0
 
 11 November 2024
 
+[download a pdf of this version](https://rwsc.org/wp-content/uploads/2024/11/Data_Policy_11Nov2024.pdf)
+
 ## Article I. Intentions and Objectives of Policy
 
 The Regional Wildlife Science Collaborative for Offshore Wind (“RWSC”) is a collaborative entity among four sectors – federal agencies, state agencies, environmental non-governmental organizations, and offshore wind companies. The mission of the RWSC is to collaboratively and effectively conduct and coordinate relevant, credible, and efficient regional monitoring and research of wildlife and marine ecosystems that supports the advancement of environmentally responsible and cost-efficient offshore wind power development activities in U.S. Atlantic waters. In 2024, RWSC released its Integrated Science Plan for Offshore Wind, Wildlife, and Habitat in U.S. Atlantic Waters to inform future data collection and research (“Science Plan”). The Science Plan expresses all RWSC participants’ common goals of funding and implementing research that is collaborative, aligned with current data needs, and that results in data that are Findable, Accessible, Interoperable, Reusable (FAIR), and made available to support decision-making and future research as soon as possible.
