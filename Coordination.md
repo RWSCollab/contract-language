@@ -1,12 +1,12 @@
 # Requiring awardees to coordinate through RWSC
 
-::: {#request}
-To address the minimum recommendation in the [RWSC Science Plan](https://rwsc.org/science-plan) related to coordination, the RWSC Steering Committee is requesting that:
+**To address the minimum recommendation in the [RWSC Science Plan](https://rwsc.org/science-plan) related to coordination, the RWSC Steering Committee is requesting that:**
 
 -   Funders require the following activities for the research they fund by describing these expectations in requests for proposals and contract/grant scopes of work; AND/OR
 
 -   Researchers include the following activities in their proposals to demonstrate regional coordination via RWSC.
-:::
+
+------------------------------------------------------------------------
 
 1.  Applicant is strongly encouraged to propose work that is consistent with Science Plan recommendations. Regular participation in RWSC Subcommittee meetings affords anyone the opportunity to hear and discuss current/ongoing research and data collection activities, data gaps, needs, etc.
 
